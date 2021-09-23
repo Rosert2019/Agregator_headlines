@@ -7,10 +7,10 @@ from bs4 import BeautifulSoup
 
 #Tweeter credential
 data = {
-  "API_key": "w8Tqaatw70Ou73vrxzeblubTE",
-  "API_secret_key":"bZfGy6hxrixriHYWj1URPhNHqI0phfiNKrxX7zvBUWiiZL42tq",
-  "Access_token" :"911157798419009536-JrITP2g3lKkquSow56wUreClj0wiLX4",
-  "Access_token_secret" :"2R9sD95swHegT7iRkUefUlRrw2kgu4lqNRKHbWJiAx9N9"
+  "API_key": "",
+  "API_secret_key":"",
+  "Access_token" :"",
+  "Access_token_secret" :""
 }
 
 API_key = data['API_key']  
