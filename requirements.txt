@@ -1,0 +1,6 @@
+django~=3.2
+bokeh~=1.4.0
+pandas~=1.2.1
+requests~=2.22.0
+tweepy~=3.9.0 
+beautifulsoup4~=4.9.3
